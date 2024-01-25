@@ -9,9 +9,7 @@ ________________________________________________________________________________
     Automatically convert arbitrary file write primitive into shell by dropping SSH keys.
     Automatically convert arbitrary file write primitive into shell by writing to cron.
     Automatically convert arbitrary file write primitive into shell using LD_PRELOAD.
-    _________________________________________________________________________________
-    Compatibility
-
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 By design autoprivilage is a backwards compatible, stdlib only python script, meaning it should work on any variant of Unix if Python is installed.
 
     Python2.*
